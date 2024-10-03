@@ -1,0 +1,11 @@
+#header-container{
+    background-color: grey;
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font: 24px;
+    display: flex;
+    justify-content: space-between;
+}

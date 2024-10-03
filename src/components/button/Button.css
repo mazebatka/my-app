@@ -1,0 +1,22 @@
+button{
+    padding: 10px 20px;
+    background-color: #bdd1fa;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#small{
+    font-size: 10px;
+    padding: 4px 8px;
+}
+
+#medium{
+    font-size: 14px;
+    padding: 8px 16px;
+}
+
+#large{
+    font-size: 18px;
+    padding: 12px 24px; 
+}
